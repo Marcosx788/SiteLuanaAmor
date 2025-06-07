@@ -92,7 +92,7 @@ button {
 
 /* Body com tamanho dependendo do navegador e background */
 body {
-  background-image: url("sua-imagem.jpg");
+  background-image: url("img/giphy\ \(1\).gif");
   background-size: cover; /* Cobrir toda a área */
   background-position: center; /* Centraliza a imagem */
   background-repeat: no-repeat; /* Evita repetição */
