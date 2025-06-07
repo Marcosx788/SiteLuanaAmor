@@ -92,13 +92,12 @@ button {
 
 /* Body com tamanho dependendo do navegador e background */
 body {
-	background-image: url("img/giphy\ \(2\).gif");
-	background-repeat: no-repeat;
-	background-position: center bottom;
-	background-size: cover;
-	background-attachment: fixed;
-	margin: 0;
-	overflow: auto !important;
+  background-image: url("sua-imagem.jpg");
+  background-size: cover; /* Cobrir toda a área */
+  background-position: center; /* Centraliza a imagem */
+  background-repeat: no-repeat; /* Evita repetição */
+  background-attachment: fixed; /* Fixa o fundo (opcional) */
+  min-height: 100vh; /* Garante altura mínima = tela do celular */
 }
 
 #top-banner,
